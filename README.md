@@ -6,7 +6,7 @@
  * Key Concepts: Memory-mapped I/O, GPIO configuration, clock control
  */
 ## Demo
-[![Embedded Systems Demo - LED Blinking](https://img.youtube.com/vi/aecu50eeZzF6e/0.jpg)](https://www.youtube.com/watch?v=aecu50eeZzF6e)
+[![Embedded Systems Demo - LED Blinking](C:\Users\duder\Downloads\IMG_5300.mp4)
 *Click the image above to watch the video*
 // Memory map definitions for STM32 peripheral access
 #define PERIPH_BASE (0x40000000UL)
