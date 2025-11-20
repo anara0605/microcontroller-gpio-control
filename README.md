@@ -5,9 +5,6 @@
  * Microcontroller: STM32 (ARM Cortex-M)
  * Key Concepts: Memory-mapped I/O, GPIO configuration, clock control
  */
-## Demo
-[![Embedded Systems Demo - LED Blinking](https://drive.google.com/file/d/1ZSSdw7-lDCEUeJGGl38fh9hsWLkjDEap/view?usp=drive_link)
-*Click the image above to watch the video*
 // Memory map definitions for STM32 peripheral access
 #define PERIPH_BASE (0x40000000UL)
 #define AHB1_PERIPH_OFFSET (0x00020000UL)
